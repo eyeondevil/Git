@@ -1,1 +1,1 @@
-This is Java Logout Page
+This is Java Logout Page.

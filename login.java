@@ -1,1 +1,1 @@
-This is the Java Login Page.
+This is the Java Login Page. Thanks.
