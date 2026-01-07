@@ -1,1 +1,1 @@
-This is the Java Signup Page
+This is the Java Signup Page.
